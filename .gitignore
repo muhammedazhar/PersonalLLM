@@ -5,3 +5,4 @@ bin/
 /llama*
 *.model
 *.chk
+.ipynb_checkpoints/
