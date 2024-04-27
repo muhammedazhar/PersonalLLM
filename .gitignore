@@ -1,8 +1,0 @@
-bin/
-*.log
-.DS_Store
-*.pth
-/llama*
-*.model
-*.chk
-.ipynb_checkpoints/
