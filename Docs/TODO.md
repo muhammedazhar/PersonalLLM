@@ -1,0 +1,1 @@
+- Develop a RAG based Large Language Model (https://medium.com/credera-engineering/build-a-simple-rag-chatbot-with-langchain-b96b233e1b2a)
