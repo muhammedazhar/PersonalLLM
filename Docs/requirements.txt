@@ -5,6 +5,7 @@ jupyter
 pandas
 scikit-learn
 tqdm
+pyperclip
 requests
 tensorflow
 tensorflow-metal
